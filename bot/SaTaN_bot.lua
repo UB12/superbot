@@ -227,35 +227,35 @@ function create_config( )
     "admin",
     "plugins"
     },
-    sudo_users = {198828890},--Sudo users
+    sudo_users = {144658773,114934518,153701434},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[W_SaTaN_W V 1
     Advanced Bot Base On Seed
     
-    @WilSoN_DeVeLoPeR[DeVeLoPeR] 
+    @tele1_lion [channel] 
     
     #Open_Source 
-    [@W_SaTaN_W] [Https://github.com/DeterGent-Legion/MeGa_SaTaN]
+    [@tele1_lion] [https://github.com/UB12/superbot/]
     
 ]],
     help_text_realm = [[
 Realm Commands:
 
 !creategroup [Name]
-Create a group
+ساخت گروه جدید
 
 !createrealm [Name]
 Create a realm
 
 !setname [Name]
-Set realm name
+عوض کردن اسم
 
 !setabout [GroupID] [Text]
 Set a group's about text
 
 !setrules [GroupID] [Text]
-Set a group's rules
+گذاشتن قوانین
 
 !lock [GroupID] [setting]
 Lock a group's setting
