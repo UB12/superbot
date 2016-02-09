@@ -246,31 +246,31 @@ Realm Commands:
 ساخت گروه جدید
 
 !createrealm [Name]
-Create a realm
+ساخت ریلم
 
 !setname [Name]
 عوض کردن اسم
 
 !setabout [GroupID] [Text]
-Set a group's about text
+گذاشتن توضیحات گروه
 
 !setrules [GroupID] [Text]
 گذاشتن قوانین
 
 !lock [GroupID] [setting]
-Lock a group's setting
+قفل‌کردن اعضا و نام و عکس
 
 !unlock [GroupID] [setting]
-Unock a group's setting
+باز کردن قفل اعضا‌ونام و عکس
 
 !wholist
 Get a list of members in group/realm
 
 !who
-Get a file of members in group/realm
+لیست ایدی ممبر
 
 !type
-Get group type
+تایپ
 
 !kill chat [GroupID]
 Kick all memebers and delete group
@@ -279,13 +279,13 @@ Kick all memebers and delete group
 Kick all members and delete realm
 
 !addadmin [id|username]
-Promote an admin by id OR username *Sudo only
+انتخاب ادمین جدید به ریات
 
 !removeadmin [id|username]
-Demote an admin by id OR username *Sudo only
+پاک کردن ادمین
 
 !list groups
-Get a list of all groups
+لیست گروه ها
 
 !list realms
 Get a list of all realms
